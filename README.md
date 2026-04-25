@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- Scalable Web Applications using ASP.NET & SQL Server<br><br>👯 I’m looking to collaborate on:<br>- Backend Development & Database-driven Projects<br><br>🤝 I’m looking for help with:<br>- System Design & Advanced API Development<br><br>🌱 I’m currently learning:<br>- ASP.NET Core, REST APIs, Optimization Techniques<br><br>💬 Ask me about:<br>- Database Design, Query Optimization, CRUD, Joins<br><br>⚡ Fun fact:<br>- Turning ideas into working applications is my passion 🚀
+🔭 I’m currently working on:<br>- Scalable Web Applications using ASP.NET & SQL Server<br><br>👯 I’m looking to collaborate on:<br>- Backend Development & Database-driven Projects<br><br>🤝 I’m looking for help with:<br>- System Design & Advanced API Development<br><br>🌱 I’m currently learning:<br>- ASP.NET Core, Angular, REST APIs, Optimization Techniques<br><br>💬 Ask me about:<br>- Database Design, Query Optimization, CRUD, Joins<br><br>⚡ Fun fact:<br>- Turning ideas into working applications is my passion 🚀
 
 
 ## 🌐 Socials:
